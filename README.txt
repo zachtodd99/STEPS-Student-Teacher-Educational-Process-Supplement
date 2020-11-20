@@ -2,6 +2,8 @@ STEPS - Student Teacher Educational Process Supplement
 Version 1.0
 Created by Zachary Todd using free version of Unity
 
+For an overview and demo of the application, watch "Final Project.mp4".
+
 To run STEPS, simply download the "WindowsBuild.zip" file, unzip/extract all on your local desktop, and run the executable. Make sure that standaloneFinal.exe and standaloneFinal_Data are in the same directory.
 If you wish to run STEPS on your android device, download the AndroidFinal.apk to any Android device and run it as normal. You may have to allow downloads from unknown sources.
 
